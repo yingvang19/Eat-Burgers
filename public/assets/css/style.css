@@ -1,0 +1,32 @@
+ol, li {
+    background: wheat;
+  margin-top: 5px;
+  margin-bottom: 1rem;
+
+}
+
+.label {
+  font-weight: bold;
+}
+
+body {
+  padding: 5px;
+  margin: 5px;
+  color: darkgoldenrod;
+  background-image: url("../images/background.jpg");
+  background-repeat: repeat;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+.col-lg, h2{
+text-align: center;
+color: saddlebrown;
+}
+img{
+  width: 200px;
+}
+/* .data-newsleep(
+  display: hidden;
+) */
