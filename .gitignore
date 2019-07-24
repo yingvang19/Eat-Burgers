@@ -4,3 +4,8 @@
 # Node.
 node_modules
 npm-debug.log
+
+# NPM file
+package-lock.json
+.npmrc
+.env
